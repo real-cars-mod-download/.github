@@ -8,7 +8,7 @@ From luxury supercars to everyday sedans, motorcycles, and trucks, the Real Cars
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://real-cars-mod-download.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Install **Script Hook V** and **OpenIV** (required).  
